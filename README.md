@@ -144,7 +144,7 @@
 <!-- first row -->
 <div width="100%" align="center">
 <!-- repo 1 -->
-  <a align="right" href="https://github.com/Sasmita2004/Bluetooth_controlled_robovac" title="Bluetooth_controlled_robovac">
+  <a align="right" href="https://github.com/Sasmita-sahoo-2004/Bluetooth_controlled_robovac" title="Bluetooth_controlled_robovac">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sasmita-sahoo-2004&repo=Bluetooth_controlled_robovac&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sasmita-sahoo-2004&repo=Bluetooth_controlled_robovac&theme=graywhite&border_radius=10" />
