@@ -1,5 +1,3 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=Sasmita">
 
 <!-- introduction -->
 <h1 align="center">
