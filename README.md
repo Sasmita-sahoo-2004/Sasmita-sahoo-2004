@@ -117,7 +117,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasmita-sahoo-2004&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasmita2004&langs_count=8&layout=compact&border_color=61dafb" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasmita-sahoo-2004&langs_count=8&layout=compact&border_color=61dafb" />
         <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasmita-sahoo-2004&langs_count=8&layout=compact&border_color=61dafb" alt="sasmita's language stats" />
       </picture>
     </a>
@@ -131,7 +131,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sasmita-sahoo-2004&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sasmita-sahoo-2004&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sasmita2004&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Sasmita's contribution graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sasmita-sahoo-2004&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Sasmita's contribution graph" />
     </picture>
   </a>
 </p>
@@ -146,9 +146,9 @@
 <!-- repo 1 -->
   <a align="right" href="https://github.com/Sasmita2004/Bluetooth_controlled_robovac" title="Bluetooth_controlled_robovac">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sasmita2004&repo=Bluetooth_controlled_robovac&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sasmita2004&repo=Bluetooth_controlled_robovac&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sasmita2004&repo=Bluetooth_controlled_robovac&theme=graywhite&border_radius=10" alt="Sasmita's repository stats -RoboVac" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sasmita-sahoo-2004&repo=Bluetooth_controlled_robovac&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sasmita-sahoo-2004&repo=Bluetooth_controlled_robovac&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sasmita-sahoo-2004&repo=Bluetooth_controlled_robovac&theme=graywhite&border_radius=10" alt="Sasmita's repository stats -RoboVac" />
     </picture>
   </a>
 </div>
@@ -159,5 +159,5 @@
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/Sasmita2004?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Sasmita-sahoo-2004?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
