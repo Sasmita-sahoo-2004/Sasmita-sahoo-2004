@@ -95,7 +95,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" alt="sanidhyy's streak stats" />
+<img align="l" width=430 src="http://github-readme-streak-stats.herokuapp.com?user=abinash1011&theme=material-palenight&hide_border=false&border=DDCFC4&fire=DD210FFF&background=011627" />
       </picture>
     </a>
    <!-- github stats -->
