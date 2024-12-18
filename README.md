@@ -88,18 +88,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align=center>
-  <!-- first row -->
+<!-- first row -->
   <div align=center>
-    <!-- streak stats -->
+  <!-- streak stats -->
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" 
-                srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sasmita-sahoo-2004&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-                srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sasmita-sahoo-2004&theme=default&border=61dafb" />
-        <img align="left" width=390 
-             src="https://github-readme-streak-stats.herokuapp.com/?user=Sasmita-sahoo-2004&theme=default&border=61dafb" 
-             alt="sasmita's streak" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?
+          user=Sasmita-sahoo-2004&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sasmita-sahoo-2004&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Sasmita-sahoo-2004&theme=default&border=61dafb" alt="sasmita's streak" />
       </picture>
     </a>
   </div>
