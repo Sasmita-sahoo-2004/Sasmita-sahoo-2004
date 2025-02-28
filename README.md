@@ -96,7 +96,7 @@
          <img align="l" width=430 src="http://github-readme-streak-stats.herokuapp.com?user=Sasmita-sahoo-2004&theme=material-palenight&hide_border=false&border=DDCFC4&fire=DD210FFF&background=011627" />
     </a>
    <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/anuraghazr/github-readme-stats" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sasmita-sahoo-2004&show_icons=true&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Sasmita-sahoo-2004&show_icons=true&theme=default&border_color=61dafb" />
