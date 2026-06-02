@@ -13,14 +13,12 @@
 
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sasmita Sahoo, AI and ML engineer 💻,  Learner 👩‍💻 &  player with data 👩‍🏫 from India 🇮🇳.
+  Hi, I'm Sasmita Sahoo, data engineer 💻,  Learner 👩‍💻 from India 🇮🇳.
   <br />
   <br />
-  👩‍🎓 Currently a university student.
+  👩‍💼 Currently working in Fractal.
   <br />
   💻 I love to learn new technologies and to do research.
-  <br />
-  👩‍💼 I’m also interested in UI/UX design, Power BI dashboard development, frontend, data analysis, and deep learning research.
   <br />
 </p>
 
