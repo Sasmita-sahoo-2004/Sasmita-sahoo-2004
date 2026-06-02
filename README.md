@@ -26,8 +26,10 @@
 <div align="center"> 
 <!-- Google Scholar -->
   <a href="https://scholar.google.com/citations?user=tcsuiCMAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" target="_blank"></a>
-  <!-- twitter -->
-  <a href="https://vocal-kheer-225596.netlify.app/#" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+  <!-- portfolio -->
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
   <!-- gmail -->
   <a href="mailto:sasmita2004mama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
